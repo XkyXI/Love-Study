@@ -1,2 +1,2 @@
 # Study
-[Click me](https://xkyxi.github.io/Love-Study/)
+[Click me](https://xkyxi.github.io/Study/)
